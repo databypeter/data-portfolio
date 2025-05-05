@@ -3,7 +3,7 @@
 Welcome to my data portfolio! I’m currently learning SQL, Excel, and Power BI to become a data analyst, with a focus on logistics and supply chain analytics.
 
 ## 🚀 Projects (Coming Soon)
-- [SQL] Delivery Performance Tracker
+-  🚀 Projects [SQL] [Logistics Delivery Tracker](./sql-projects/logistics-delivery-tracker.md) – Analyze on-time rate and cost per route
 - [Excel] Internal Cost Report Template
 - [Power BI] Truck Utilization Dashboard
 
