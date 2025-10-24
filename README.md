@@ -4,8 +4,8 @@ Project Context: This project analyzes sales data for a global retailer speciali
 
 Stakeholder: VP of Sales & Marketing
 
-Executive Summary
-Overview of Findings
+**Executive Summary
+**Overview of Findings
 Analysis of global sales data reveals three critical insights for the sales leadership team:
 
 Geographic concentration presents both strength and risk: The United States dominates with 36% of total revenue ($3.63M), while 14 smaller markets collectively contribute less than $2M—indicating significant expansion opportunities in underpenetrated regions.
@@ -14,8 +14,8 @@ Product line performance is highly concentrated: Classic Cars alone generate 39%
 
 Strong Q4 seasonality demands proactive planning: Fourth-quarter sales consistently exceed $1.8M (180%+ of Q1 baseline), requiring strategic inventory management, marketing campaigns, and sales team allocation to maximize peak-season revenue.
 
-Key Metrics:
-
+**Key Metrics:
+**
 Total Sales: $10.03M
 
 Total Orders: 307 unique orders
@@ -26,8 +26,8 @@ Product Lines: 7 categories
 
 Analysis Period: 2003-2005
 
-Data Structure & Initial Checks
-The company's sales database consists of a single consolidated table: sales_data with 2,823 order line item records.
+**Data Structure & Initial Checks
+**The company's sales database consists of a single consolidated table: sales_data with 2,823 order line item records.
 
 Table: sales_data
 
@@ -39,16 +39,16 @@ Date range: January 2003 – September 2005
 
 Geographic coverage: 19 countries across North America, Europe, Asia-Pacific
 
-Data Quality Notes:
-
+**Data Quality Notes:
+**
 Order status includes 6 categories: Shipped (93%), Cancelled, Disputed, In Process, On Hold, Resolved
 
 Missing values identified in STATE field (non-US customers) and ADDRESSLINE2—both handled appropriately in analysis
 
 All monetary values in USD
 
-Insights and Recommendations
-Insights and recommendations are provided on the following key business areas:
+**Insights and Recommendations
+**Insights and recommendations are provided on the following key business areas:
 
 Geographic Performance: Market concentration and expansion opportunities
 
@@ -58,8 +58,8 @@ Temporal Trends: Seasonality, quarterly patterns, and sales forecasting
 
 Customer & Deal Segmentation: High-value accounts and deal size strategy
 
-Insights Deep Dive
-Category 1: Geographic Performance
+**Insights Deep Dive
+**Category 1: Geographic Performance
 
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/446a1ec6-02be-4100-b82d-e45f8e351bf6" />
 
@@ -71,8 +71,8 @@ Main Insight 3: European markets show strong collective performance with Spain (
 
 Main Insight 4: Lower-tier markets like Ireland ($58K), Philippines ($94K), and Belgium ($108K) show transaction activity but minimal revenue contribution, suggesting either early-stage market development or need for localized strategies.
 
-Recommendation:
-
+**Recommendation:
+**
 Diversify geographic revenue streams by investing in mid-tier markets (Italy, Finland, Norway) that show existing traction but remain underdeveloped.
 
 Launch targeted campaigns in the 5 lowest-performing countries to test market receptivity and identify barriers to growth.
@@ -91,16 +91,16 @@ Main Insight 3: Lower-performing categories like Trains ($226K, 2.3% share) and 
 
 Main Insight 4: Motorcycles, Trucks and Buses, and Planes form a stable mid-tier cluster, each contributing $950K–$1.17M with consistent order volumes (300–330 orders), suggesting opportunities for incremental growth through targeted promotions.
 
-Recommendation:
-
+**Recommendation:
+**
 Double down on Classic Cars and Vintage Cars with expanded inventory, exclusive releases, and premium pricing strategies to maximize revenue from proven winners.
 
 Pilot test marketing campaigns for underperforming categories (Trains, Ships) to assess whether low sales stem from weak demand or insufficient promotion.
 
 Bundle mid-tier products (Motorcycles, Planes) with top sellers to increase cross-category purchases and average basket size.
 
-Category 3: Temporal Trends & Seasonality
-
+**Category 3: Temporal Trends & Seasonality
+**
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3b44904-61de-40d8-9333-d2404bafcf10" />
 
 Main Insight 1: Q4 consistently represents peak sales performance, with 2003 Q4 generating $1.86M and 2004 Q4 reaching $2.01M—representing 40%+ of annual revenue. This pattern indicates strong holiday shopping behavior and year-end corporate purchasing.
@@ -111,8 +111,8 @@ Main Insight 3: Year-over-year growth from 2003 to 2004 shows a 20%+ increase in
 
 Main Insight 4: 2005 data (partial year through Q2) shows strong Q1 performance at $1.07M—surpassing both prior years—but Q2 2005 declines to $719K, indicating potential mid-year sales challenges or market shifts requiring investigation.
 
-Recommendation:
-
+**Recommendation:
+**
 Implement pre-Q4 inventory buildup and launch early promotional campaigns in September to capture holiday demand and maximize peak-season revenue.
 
 Address Q1 weakness through targeted sales initiatives, clearance promotions, and customer retention programs to smooth seasonal volatility.
@@ -131,8 +131,8 @@ Main Insight 3: Small deals generate $2.64M across 1,282 orders with an average 
 
 Main Insight 4: Top 10 customers contribute $2.65M (26% of total sales), with Euro Shopping Channel alone accounting for $912K. This concentration highlights both strong key account relationships and vulnerability to customer churn.
 
-Recommendation:
-
+**Recommendation:
+**
 Establish dedicated account management for top 10 customers to protect and grow these strategic relationships through personalized service and exclusive offerings.
 
 Develop tiered pricing strategies to encourage small-deal customers to trade up to medium deals through volume discounts and bundled products.
@@ -141,8 +141,8 @@ Create enterprise sales program targeting large-deal prospects with custom solut
 
 Implement customer retention initiatives to reduce churn risk among top accounts and diversify revenue beyond the largest customers.
 
-Recommendations
-Based on the insights and findings above, we recommend the Sales & Marketing Leadership Team consider the following actions:
+**Recommendations
+**Based on the insights and findings above, we recommend the Sales & Marketing Leadership Team consider the following actions:
 
 Geographic Expansion Focus: USA contributes 36% of revenue, creating concentration risk. Recommendation: Allocate 40% of growth budget to developing mid-tier markets (Italy, Finland, Norway, Canada) and testing underperforming regions with localized campaigns.
 
@@ -154,8 +154,8 @@ Customer Concentration Risk: Top 10 customers represent 26% of revenue, with Eur
 
 Deal Size Growth Strategy: Medium deals drive volume but large deals offer premium margins at $8,294 average. Recommendation: Build enterprise sales capability with specialized team, custom solutions, and strategic account targeting to grow high-value segment.
 
-Assumptions and Caveats
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+**Assumptions and Caveats
+**Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
 Partial 2005 data: Dataset includes only Q1 and Q2 2005, limiting year-over-year comparisons. Full-year 2005 trends should be validated once complete data becomes available.
 
