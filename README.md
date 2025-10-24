@@ -136,7 +136,7 @@ Investigate Q2 2005 decline through customer feedback, competitive analysis, and
 
 Category 4: Customer Segmentation & Deal Size Strategy
 
-<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/7679a88a-2bd0-4292-9792-f6e987f5dadb" />
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/a971b236-b9ba-45ac-b2cf-551c98135364" />
 
 Main Insight 1: Medium-sized deals dominate revenue contribution at $6.09M (61% of total sales) across 1,384 orders, with an average order value of $4,398. This segment represents the core business model and primary revenue engine.
 
@@ -146,6 +146,7 @@ Main Insight 3: Small deals generate $2.64M across 1,282 orders with an average 
 
 Main Insight 4: Top 10 customers contribute $2.65M (26% of total sales), with Euro Shopping Channel alone accounting for $912K. This concentration highlights both strong key account relationships and vulnerability to customer churn.
 
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/bda90940-7656-46c6-a9e4-f91963f3ae82" />
 
 
 Recommendation
