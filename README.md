@@ -59,6 +59,7 @@ Customer & Deal Segmentation: High-value accounts and deal size strategy
 
 Insights Deep Dive
 Category 1: Geographic Performance
+
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/446a1ec6-02be-4100-b82d-e45f8e351bf6" />
 
 Main Insight 1: The United States is the dominant market, generating $3.63M in sales (36% of total revenue), nearly 3x more than the second-place market (Spain at $1.22M). This concentration creates both a competitive advantage in a strong market and dependency risk.
@@ -78,6 +79,7 @@ Launch targeted campaigns in the 5 lowest-performing countries to test market re
 Allocate 60% of sales resources to top 3 markets while dedicating 40% to expansion initiatives in emerging regions.
 
 Category 2: Product Line Revenue & Portfolio Strategy
+
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/15350815-5612-41d8-a199-f5c36e8cd956" />
 
 Main Insight 1: Classic Cars dominate the product portfolio, contributing $3.92M (39% of total sales) across 967 order lines with an average order value of $4,053. This category is the clear revenue leader and should remain a strategic priority.
@@ -97,6 +99,7 @@ Pilot test marketing campaigns for underperforming categories (Trains, Ships) to
 Bundle mid-tier products (Motorcycles, Planes) with top sellers to increase cross-category purchases and average basket size.
 
 Category 3: Temporal Trends & Seasonality
+
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3b44904-61de-40d8-9333-d2404bafcf10" />
 
 Main Insight 1: Q4 consistently represents peak sales performance, with 2003 Q4 generating $1.86M and 2004 Q4 reaching $2.01M—representing 40%+ of annual revenue. This pattern indicates strong holiday shopping behavior and year-end corporate purchasing.
@@ -116,6 +119,7 @@ Address Q1 weakness through targeted sales initiatives, clearance promotions, an
 Investigate Q2 2005 decline through customer feedback, competitive analysis, and sales team input to identify root causes and corrective actions.
 
 Category 4: Customer Segmentation & Deal Size Strategy
+
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/7679a88a-2bd0-4292-9792-f6e987f5dadb" />
 
 Main Insight 1: Medium-sized deals dominate revenue contribution at $6.09M (61% of total sales) across 1,384 orders, with an average order value of $4,398. This segment represents the core business model and primary revenue engine.
