@@ -1,4 +1,4 @@
-##Global Retail Sales Performance Analysis
+Global Retail Sales Performance Analysis
 
 Project Context: This project analyzes sales data for a global retailer specializing in collectible vehicles across multiple product lines. As a data analyst supporting the sales leadership team, I examined 2,823 order transactions spanning 2003-2005 to identify revenue drivers, market opportunities, and operational insights that inform strategic decision-making.
 
@@ -14,7 +14,7 @@ Product line performance is highly concentrated: Classic Cars alone generate 39%
 
 Strong Q4 seasonality demands proactive planning: Fourth-quarter sales consistently exceed $1.8M (180%+ of Q1 baseline), requiring strategic inventory management, marketing campaigns, and sales team allocation to maximize peak-season revenue.
 
-Key Metrics:
+Key Metrics
 
 Total Sales: $10.03M
 
@@ -39,15 +39,14 @@ Date range: January 2003 – September 2005
 
 Geographic coverage: 19 countries across North America, Europe, Asia-Pacific
 
-Data Quality Notes:
+Data Quality Notes
 
 Order status includes 6 categories: Shipped (93%), Cancelled, Disputed, In Process, On Hold, Resolved
 
 Missing values identified in STATE field (non-US customers) and ADDRESSLINE2—both handled appropriately in analysis
 
-All monetary values in USD
-
 Insights and Recommendations
+
 Insights and recommendations are provided on the following key business areas:
 
 Geographic Performance: Market concentration and expansion opportunities
@@ -71,7 +70,7 @@ Main Insight 3: European markets show strong collective performance with Spain (
 
 Main Insight 4: Lower-tier markets like Ireland ($58K), Philippines ($94K), and Belgium ($108K) show transaction activity but minimal revenue contribution, suggesting either early-stage market development or need for localized strategies.
 
-Recommendation:
+Recommendation
 
 Diversify geographic revenue streams by investing in mid-tier markets (Italy, Finland, Norway) that show existing traction but remain underdeveloped.
 
@@ -91,7 +90,7 @@ Main Insight 3: Lower-performing categories like Trains ($226K, 2.3% share) and 
 
 Main Insight 4: Motorcycles, Trucks and Buses, and Planes form a stable mid-tier cluster, each contributing $950K–$1.17M with consistent order volumes (300–330 orders), suggesting opportunities for incremental growth through targeted promotions.
 
-Recommendation:
+Recommendation
 
 Double down on Classic Cars and Vintage Cars with expanded inventory, exclusive releases, and premium pricing strategies to maximize revenue from proven winners.
 
@@ -111,7 +110,7 @@ Main Insight 3: Year-over-year growth from 2003 to 2004 shows a 20%+ increase in
 
 Main Insight 4: 2005 data (partial year through Q2) shows strong Q1 performance at $1.07M—surpassing both prior years—but Q2 2005 declines to $719K, indicating potential mid-year sales challenges or market shifts requiring investigation.
 
-Recommendation:
+Recommendation
 
 Implement pre-Q4 inventory buildup and launch early promotional campaigns in September to capture holiday demand and maximize peak-season revenue.
 
@@ -131,7 +130,7 @@ Main Insight 3: Small deals generate $2.64M across 1,282 orders with an average 
 
 Main Insight 4: Top 10 customers contribute $2.65M (26% of total sales), with Euro Shopping Channel alone accounting for $912K. This concentration highlights both strong key account relationships and vulnerability to customer churn.
 
-Recommendation:
+Recommendation
 
 Establish dedicated account management for top 10 customers to protect and grow these strategic relationships through personalized service and exclusive offerings.
 
