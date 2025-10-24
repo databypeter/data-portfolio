@@ -26,6 +26,8 @@ Product Lines: 7 categories
 
 Analysis Period: 2003-2005
 
+
+
 Data Structure & Initial Checks
 The company's sales database consists of a single consolidated table: sales_data with 2,823 order line item records.
 
@@ -38,6 +40,8 @@ Key fields: ORDERNUMBER, CUSTOMERNAME, PRODUCTLINE, COUNTRY, SALES, ORDERDATE, S
 Date range: January 2003 – September 2005
 
 Geographic coverage: 19 countries across North America, Europe, Asia-Pacific
+
+
 
 Data Quality Notes
 
@@ -56,6 +60,8 @@ Product Line Revenue: Category profitability and portfolio optimization
 Temporal Trends: Seasonality, quarterly patterns, and sales forecasting
 
 Customer & Deal Segmentation: High-value accounts and deal size strategy
+
+
 
 Insights Deep Dive
 Category 1: Geographic Performance
@@ -78,6 +84,8 @@ Launch targeted campaigns in the 5 lowest-performing countries to test market re
 
 Allocate 60% of sales resources to top 3 markets while dedicating 40% to expansion initiatives in emerging regions.
 
+
+
 Category 2: Product Line Revenue & Portfolio Strategy
 
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/15350815-5612-41d8-a199-f5c36e8cd956" />
@@ -90,6 +98,8 @@ Main Insight 3: Lower-performing categories like Trains ($226K, 2.3% share) and 
 
 Main Insight 4: Motorcycles, Trucks and Buses, and Planes form a stable mid-tier cluster, each contributing $950K–$1.17M with consistent order volumes (300–330 orders), suggesting opportunities for incremental growth through targeted promotions.
 
+
+
 Recommendation
 
 Double down on Classic Cars and Vintage Cars with expanded inventory, exclusive releases, and premium pricing strategies to maximize revenue from proven winners.
@@ -97,6 +107,8 @@ Double down on Classic Cars and Vintage Cars with expanded inventory, exclusive 
 Pilot test marketing campaigns for underperforming categories (Trains, Ships) to assess whether low sales stem from weak demand or insufficient promotion.
 
 Bundle mid-tier products (Motorcycles, Planes) with top sellers to increase cross-category purchases and average basket size.
+
+
 
 Category 3: Temporal Trends & Seasonality
 
@@ -110,6 +122,8 @@ Main Insight 3: Year-over-year growth from 2003 to 2004 shows a 20%+ increase in
 
 Main Insight 4: 2005 data (partial year through Q2) shows strong Q1 performance at $1.07M—surpassing both prior years—but Q2 2005 declines to $719K, indicating potential mid-year sales challenges or market shifts requiring investigation.
 
+
+
 Recommendation
 
 Implement pre-Q4 inventory buildup and launch early promotional campaigns in September to capture holiday demand and maximize peak-season revenue.
@@ -117,6 +131,8 @@ Implement pre-Q4 inventory buildup and launch early promotional campaigns in Sep
 Address Q1 weakness through targeted sales initiatives, clearance promotions, and customer retention programs to smooth seasonal volatility.
 
 Investigate Q2 2005 decline through customer feedback, competitive analysis, and sales team input to identify root causes and corrective actions.
+
+
 
 Category 4: Customer Segmentation & Deal Size Strategy
 
@@ -130,6 +146,8 @@ Main Insight 3: Small deals generate $2.64M across 1,282 orders with an average 
 
 Main Insight 4: Top 10 customers contribute $2.65M (26% of total sales), with Euro Shopping Channel alone accounting for $912K. This concentration highlights both strong key account relationships and vulnerability to customer churn.
 
+
+
 Recommendation
 
 Establish dedicated account management for top 10 customers to protect and grow these strategic relationships through personalized service and exclusive offerings.
@@ -139,6 +157,8 @@ Develop tiered pricing strategies to encourage small-deal customers to trade up 
 Create enterprise sales program targeting large-deal prospects with custom solutions, white-glove service, and flexible payment terms to expand this high-margin segment.
 
 Implement customer retention initiatives to reduce churn risk among top accounts and diversify revenue beyond the largest customers.
+
+
 
 Recommendations
 Based on the insights and findings above, we recommend the Sales & Marketing Leadership Team consider the following actions:
@@ -152,6 +172,9 @@ Seasonal Planning: Q4 generates 40%+ of annual revenue with strong holiday patte
 Customer Concentration Risk: Top 10 customers represent 26% of revenue, with Euro Shopping Channel at $912K. Recommendation: Implement dedicated account management, quarterly business reviews, and customer success programs to protect key relationships.
 
 Deal Size Growth Strategy: Medium deals drive volume but large deals offer premium margins at $8,294 average. Recommendation: Build enterprise sales capability with specialized team, custom solutions, and strategic account targeting to grow high-value segment.
+
+
+
 
 Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
