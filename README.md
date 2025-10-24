@@ -16,6 +16,7 @@ Strong Q4 seasonality demands proactive planning: Fourth-quarter sales consisten
 
 **Key Metrics:
 **
+
 Total Sales: $10.03M
 
 Total Orders: 307 unique orders
