@@ -1,4 +1,4 @@
-Global Retail Sales Performance Analysis
+##Global Retail Sales Performance Analysis
 
 Project Context: This project analyzes sales data for a global retailer specializing in collectible vehicles across multiple product lines. As a data analyst supporting the sales leadership team, I examined 2,823 order transactions spanning 2003-2005 to identify revenue drivers, market opportunities, and operational insights that inform strategic decision-making.
 
