@@ -90,6 +90,8 @@ The company's sales database consists of a single consolidated table: `sales_dat
 
 - Allocate 60% of sales resources to top 3 markets while dedicating 40% to expansion initiatives in emerging regions.
 
+- Prioritize expansion in regions with rising disposable income and collector interest (Asia-Pacific: China, Japan; Middle East: UAE, Saudi Arabia). Leverage cultural themes (e.g., retro anime, local automotive history) to tailor promotions and inventory.
+
 ---
 
 ## 📦 Deep-Dive Analysis: Product Line Performance
@@ -112,6 +114,8 @@ The company's sales database consists of a single consolidated table: `sales_dat
 
 - Bundle mid-tier products (Motorcycles, Planes) with top sellers to increase cross-category purchases and average basket size.
 
+- Invest in classic/vintage line, but align with cultural aesthetics—offer models popular in local markets (e.g., Porsche, Mercedes-Benz, Ferrari in Europe; JDM cars in Asia). Introduce modern classics and retro-inspired limited editions for younger buyers and digital-native collectors.
+
 ---
 
 ## 📅 Deep-Dive Analysis: Temporal Trends & Seasonality
@@ -127,7 +131,8 @@ The company's sales database consists of a single consolidated table: `sales_dat
 - Main Insight 4: Monthly analysis reveals November as the peak sales month across all years, followed by October and December, confirming holiday-driven purchasing behavior that should inform annual planning cycles.
 
 ### Recommendation
-
+- Align campaigns with major car festivals, auctions, and heritage events (Goodwood Festival of Speed, Japan Classic Car Show). Use partnerships with local influencers and celebrities to create buzz and authenticity.
+  
 - Implement pre-Q4 inventory buildup and launch early promotional campaigns in September to capture holiday demand and maximize peak-season revenue.
 
 - Address Q1 weakness through targeted sales initiatives, clearance promotions, and customer retention programs to smooth seasonal volatility.
@@ -151,6 +156,7 @@ The company's sales database consists of a single consolidated table: `sales_dat
 - Main Insight 4: Deal Size Growth Strategy: Medium deals drive volume but large deals offer premium margins at $8,294 average.
 
 ### Recommendation
+- Develop exclusive offerings and experiences for high-value clients, such as access to auctions, restoration training, or cultural-themed collectibles. For emerging collector segments, offer entry-level items, financing, and digital engagement (NFTs, online exhibitions).
 
 - Establish dedicated account management for top 10 customers to protect and grow these strategic relationships through personalized service and exclusive offerings.
 
